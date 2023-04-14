@@ -23,7 +23,27 @@ jobs:
       matrix:
         # Override automatic language detection by changing the below list
         # Supported options are ['csharp', 'cpp', 'go', 'java', 'javascript', 'python']
-        language: []
+        language: [ Inglês
+Espanhol
+Francês
+Alemão
+Italiano
+Português
+Português(Portugal)
+Chinês
+Japonês
+Coreano
+Árabe
+Russo
+Holandês
+Sueco
+Norueguês
+Dinamarquês
+Finlandês
+Polonês
+Tcheco
+Húngaro
+Turco ]
         # Learn more...
         # https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/configuring-code-scanning#overriding-automatic-language-detection
 
